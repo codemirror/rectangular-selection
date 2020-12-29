@@ -1,8 +1,8 @@
-# @codemirror/rectangular-selection
+# @codemirror/rectangular-selection [![NPM version](https://img.shields.io/npm/v/@codemirror/rectangular-selection.svg)](https://www.npmjs.org/package/@codemirror/rectangular-selection)
 
-[ [![NPM version](https://img.shields.io/npm/v/@codemirror/next.svg)](https://www.npmjs.org/package/@codemirror/rectangular-selection) | [**WEBSITE**](https://codemirror.net/6/) | [**DOCS**](https://codemirror.net/6/docs/ref/#rectangular-selection) | [**ISSUES**](https://github.com/codemirror/codemirror.next/issues) | [**FORUM**](https://discuss.codemirror.net/c/next/) | [**CHANGELOG**](https://github.com/codemirror/rectangular-selection/blob/main/CHANGELOG.md) ]
+[ [**WEBSITE**](https://codemirror.net/6/) | [**DOCS**](https://codemirror.net/6/docs/ref/#rectangular-selection) | [**ISSUES**](https://github.com/codemirror/codemirror.next/issues) | [**FORUM**](https://discuss.codemirror.net/c/next/) | [**CHANGELOG**](https://github.com/codemirror/rectangular-selection/blob/main/CHANGELOG.md) ]
 
-This package implements Rectangular selection for the
+This package implements rectangular selection for the
 [CodeMirror](https://codemirror.net/6/) code editor.
 
 The [project page](https://codemirror.net/6/) has more information, a
