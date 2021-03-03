@@ -1,6 +1,6 @@
 {
   "name": "@codemirror/rectangular-selection",
-  "version": "0.17.1",
+  "version": "0.18.0",
   "description": "Rectangular selection for the CodeMirror code editor",
   "scripts": {
     "test": "echo 'No tests'",
@@ -26,9 +26,9 @@
   "sideEffects": false,
   "license": "MIT",
   "dependencies": {
-    "@codemirror/state": "^0.17.0",
-    "@codemirror/text": "^0.17.0",
-    "@codemirror/view": "^0.17.0"
+    "@codemirror/state": "^0.18.0",
+    "@codemirror/text": "^0.18.0",
+    "@codemirror/view": "^0.18.0"
   },
   "devDependencies": {
     "rollup": "^2.35.1",
