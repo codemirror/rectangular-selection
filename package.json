@@ -28,7 +28,7 @@
   "dependencies": {
     "@codemirror/state": "^0.18.0",
     "@codemirror/text": "^0.18.0",
-    "@codemirror/view": "^0.18.0"
+    "@codemirror/view": "^0.18.18"
   },
   "devDependencies": {
     "@codemirror/buildhelper": "^0.1.0"
