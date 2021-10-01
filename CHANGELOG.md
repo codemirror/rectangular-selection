@@ -1,3 +1,9 @@
+## 0.19.1 (2021-10-01)
+
+### Bug fixes
+
+Create cursor selections for lines that only just touch the rectangle.
+
 ## 0.19.0 (2021-08-11)
 
 ### Breaking changes
