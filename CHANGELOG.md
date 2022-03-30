@@ -1,3 +1,9 @@
+## 0.19.2 (2022-03-30)
+
+### New features
+
+The new `crosshairCursor` extension can help turn the mouse cursor into a crosshair when a modifier key is held down.
+
 ## 0.19.1 (2021-10-01)
 
 ### Bug fixes
